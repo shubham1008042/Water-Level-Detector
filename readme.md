@@ -1,4 +1,4 @@
-						Water Level Detector Project
+						Water Level Detector
 
 Step 1: Components Required :
 	
