@@ -1,6 +1,6 @@
 						Water Level Detector
-
-Step 1: Components Required :
+						
+# Step 1: Components Required :
 	
 You will need the following materials for making your own Water Level Detector
 >Arduino Uno
@@ -11,7 +11,7 @@ You will need the following materials for making your own Water Level Detector
 
 >4 Digit seven segment display
 
-Step 2:  Connect Arduino Uno With HC-SR04 and 4 Digit Seven Segment Display : 
+# Step 2:  Connect Arduino Uno With HC-SR04 and 4 Digit Seven Segment Display : 
 	HC-SR04                 Arduino Uno
          
 	 GND	                 GND
@@ -34,12 +34,12 @@ Step 2:  Connect Arduino Uno With HC-SR04 and 4 Digit Seven Segment Display :
         CLK                      D2
 
 
-Step 3: Upload Sktetch in ArduinoIDE :
+# Step 3: Upload Sktetch in ArduinoIDE :
  
 You can Download it form here: https://github.com/shubham1008042/Seth
 
 
-Step 4: Working Of The Project:
+# Step 4: Working Of The Project:
 
 In this project i have used arduino uno with ulrasonic sensor(to measure percentage of filled water) and 4 digit seven segment display. The connections of arduino uno with HC-SR04 and 4 digit display is shown in step 2.
 
@@ -56,6 +56,6 @@ The percentage of water filled is shown by using formula:
                                                                                   height of tank)*100
 										  
 										  
- For code and formulas that i used in this project, you can see it in my sketch as mentioned in step3.
+# For code and formulas that i used in this project, you can see it in my sketch as mentioned in step3.
 
 
