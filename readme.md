@@ -37,7 +37,7 @@ You will need the following materials for making your own Water Level Detector
 
 # Step 3: Upload Sktetch in ArduinoIDE :
  
-You can Download it form here: https://github.com/shubham1008042/Seth
+You can Download it form here: https://github.com/shubham1008042/Water-Level-Detector/blob/master/task_water/task_water.ino
 
 
 # Step 4: Working Of The Project:
