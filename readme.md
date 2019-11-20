@@ -35,7 +35,7 @@ You will need the following materials for making your own Water Level Detector
         CLK                      D2
 
 
-# Step 3: Upload Sktetch in ArduinoIDE :
+# Step 3: Upload Sketch in ArduinoIDE :
  
 You can Download it form here: https://github.com/shubham1008042/Water-Level-Detector/blob/master/task_water/task_water.ino
 
